@@ -31,13 +31,13 @@ O arquivo de configuração para este workflow é `issue.yml` e está localizado
    git clone https://github.com/AlanBReis/ci-cd-pipeline.git
    ```
 
-2. Configuração:
+2. **Configuração**:
 
 Certifique-se de que seu repositório GitHub esteja configurado corretamente para usar GitHub Actions.
 Personalize os arquivos de workflow conforme necessário para atender aos requisitos do seu projeto.
 
 
-3.Acompanhe os Workflows:
+3. **Acompanhe os Workflows**:
 
 Visite a aba "Actions" no GitHub para visualizar a execução dos workflows e os resultados.
 Contribuição
